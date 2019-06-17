@@ -1,0 +1,107 @@
+<?php echo $this->doctype(); ?>
+
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <?php echo $this->headTitle('Atos osiguranje - intranet aplikacija')->setSeparator(' - ')->setAutoEscape(false) ?>
+
+        <?php echo $this->headMeta()
+            ->appendName('viewport', 'width=device-width, initial-scale=1.0')
+            ->appendHttpEquiv('X-UA-Compatible', 'IE=edge')
+        ?>
+
+        <!-- Le styles -->
+        <?php echo $this->headLink(array('rel' => 'shortcut icon', 'type' => 'image/vnd.microsoft.icon', 'href' => $this->basePath() . '/img/favicon.ico'))
+
+                        ->prependStylesheet($this->basePath() . '/assets/css/bootstrap.min.css')
+                        /* toastr notif */
+                        ->appendStylesheet($this->basePath() . '/assets/plugins/toastr/toastr.min.css')
+                        
+                        ->appendStylesheet($this->basePath() . '/assets/css/menu.css')
+                        ->appendStylesheet($this->basePath() . '/assets/css/core.css')
+                        ->appendStylesheet($this->basePath() . '/assets/css/components.css')
+                        ->appendStylesheet($this->basePath() . '/assets/css/icons.css')
+                        ->appendStylesheet($this->basePath() . '/assets/css/pages.css')
+                        ->appendStylesheet($this->basePath() . '/assets/css/responsive.css')
+                        
+
+                        
+
+        ?>
+
+        <!-- Scripts -->
+        <?php echo $this->headScript()       	
+            ->prependFile($this->basePath() . '/js/bootstrap.min.js')
+            ->prependFile($this->basePath() . '/js/jquery.min.js')
+            ->prependFile($this->basePath() . '/js/respond.min.js', 'text/javascript', array('conditional' => 'lt IE 9',))
+            ->prependFile($this->basePath() . '/js/html5shiv.js',   'text/javascript', array('conditional' => 'lt IE 9',))
+            
+            
+            
+            ->appendFile($this->basePath() . '/assets/js/modernizr.min.js')
+        ; ?>
+
+    </head>
+    <body>
+   		<div class="text-center logo-alt-box">
+            <a href="index.html" class="logo"><span>Atos<span> osiguranje</span></span></a>
+            <h5 class="text-muted m-t-0">Intranet aplikacija</h5>
+        </div>
+        
+        <div class="wrapper-page">
+        	<?php echo $this->content; ?>
+        </div>
+        
+		<script>
+            var resizefunc = [];
+        </script>
+		
+				        <?php echo $this->inlineScript()
+						->appendFile($this->basePath() . '/assets/js/detect.js')
+						->appendFile($this->basePath() . '/assets/js/fastclick.js')
+						->appendFile($this->basePath() . '/assets/js/jquery.slimscroll.js')
+						->appendFile($this->basePath() . '/assets/js/jquery.blockUI.js')
+						->appendFile($this->basePath() . '/assets/js/waves.js')
+						->appendFile($this->basePath() . '/assets/js/wow.min.js')
+						->appendFile($this->basePath() . '/assets/js/jquery.nicescroll.js')
+						->appendFile($this->basePath() . '/assets/js/jquery.scrollTo.min.js')
+						/*Counter Up*/
+						->appendFile($this->basePath() . '/assets/plugins/waypoints/lib/jquery.waypoints.js')
+						->appendFile($this->basePath() . '/assets/plugins/counterup/jquery.counterup.min.js')
+
+		        		/*App js*/
+		        		->appendFile($this->basePath() . '/assets/js/jquery.core.js')
+		        		->appendFile($this->basePath() . '/assets/js/jquery.app.js')
+		        		
+		        		/* notif */
+				        ->appendFile($this->basePath() . '/assets/plugins/toastr/toastr.min.js')
+
+		        		?>
+<script>
+
+		toastr.options = {
+		  "closeButton": false,
+		  "debug": false,
+		  "newestOnTop": false,
+		  "progressBar": false,
+		  "positionClass": "toast-top-center",
+		  "preventDuplicates": false,
+		  "onclick": null,
+		  "showDuration": "300",
+		  "hideDuration": "1000",
+		  "timeOut": "5000",
+		  "extendedTimeOut": "1000",
+		  "showEasing": "swing",
+		  "hideEasing": "linear",
+		  "showMethod": "fadeIn",
+		  "hideMethod": "fadeOut"
+		}
+</script>
+		
+		
+    </body>
+</html>
+
+
+
+

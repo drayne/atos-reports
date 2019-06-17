@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://V:/">
+      <excludeFolder url="file://V:/vendor/adaoex/zf2-excel" />
+      <excludeFolder url="file://V:/vendor/composer" />
+      <excludeFolder url="file://V:/vendor/coolcsn/csn-authorization" />
+      <excludeFolder url="file://V:/vendor/coolcsn/csn-navigation" />
+      <excludeFolder url="file://V:/vendor/coolcsn/csn-user" />
+      <excludeFolder url="file://V:/vendor/doctrine/annotations" />
+      <excludeFolder url="file://V:/vendor/doctrine/cache" />
+      <excludeFolder url="file://V:/vendor/doctrine/collections" />
+      <excludeFolder url="file://V:/vendor/doctrine/common" />
+      <excludeFolder url="file://V:/vendor/doctrine/dbal" />
+      <excludeFolder url="file://V:/vendor/doctrine/doctrine-module" />
+      <excludeFolder url="file://V:/vendor/doctrine/doctrine-orm-module" />
+      <excludeFolder url="file://V:/vendor/doctrine/inflector" />
+      <excludeFolder url="file://V:/vendor/doctrine/instantiator" />
+      <excludeFolder url="file://V:/vendor/doctrine/lexer" />
+      <excludeFolder url="file://V:/vendor/doctrine/orm" />
+      <excludeFolder url="file://V:/vendor/psr/log" />
+      <excludeFolder url="file://V:/vendor/symfony/console" />
+      <excludeFolder url="file://V:/vendor/symfony/debug" />
+      <excludeFolder url="file://V:/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://V:/vendor/zendframework/zendframework" />
+      <excludeFolder url="file://V:/vendor/zendframework/zendxml" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

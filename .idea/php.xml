@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="V:/vendor/doctrine/cache" />
+      <path value="V:/vendor/doctrine/doctrine-orm-module" />
+      <path value="V:/vendor/doctrine/common" />
+      <path value="V:/vendor/doctrine/collections" />
+      <path value="V:/vendor/coolcsn/csn-navigation" />
+      <path value="V:/vendor/composer" />
+      <path value="V:/vendor/doctrine/instantiator" />
+      <path value="V:/vendor/coolcsn/csn-user" />
+      <path value="V:/vendor/doctrine/dbal" />
+      <path value="V:/vendor/coolcsn/csn-authorization" />
+      <path value="V:/vendor/doctrine/annotations" />
+      <path value="V:/vendor/doctrine/inflector" />
+      <path value="V:/vendor/doctrine/orm" />
+      <path value="V:/vendor/doctrine/doctrine-module" />
+      <path value="V:/vendor/doctrine/lexer" />
+      <path value="V:/vendor/zendframework/zendframework" />
+      <path value="V:/vendor/zendframework/zendxml" />
+      <path value="V:/vendor/symfony/console" />
+      <path value="V:/vendor/symfony/debug" />
+      <path value="V:/vendor/psr/log" />
+      <path value="V:/vendor/symfony/polyfill-mbstring" />
+      <path value="V:/vendor/adaoex/zf2-excel" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="5.3.0" />
+</project>

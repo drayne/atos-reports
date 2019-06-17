@@ -1,0 +1,136 @@
+<?php 
+echo $this->inlinescript()
+					->appendFile($this->basePath() . '/js/bootstrap-datepicker.min.js')
+					->appendFile($this->basePath() . '/js/bootstrap-datepicker.sr-latin.min.js');
+echo $this->headlink()
+					->appendStylesheet($this->basePath() . '/css/bootstrap-datepicker.css');
+?>
+
+<!-- Start content -->
+<div class="content">
+	<div class="container">
+
+		<div class="row">
+			<div class="col-sm-6">
+				<div class="card-box">
+				<h4 class="header-title m-t-0 m-b-30">Pregled zakljuèenih polisa u zadatom periodu</h4>
+<?php
+/* posle POST-a */
+if (isset($polisa)){
+	foreach ($polisa as $polisa) {
+	 	echo $polisa->getDatist()->format('d.m.Y - H:i') . ' - ';
+	 	echo $polisa->getDatpoc()->format('d.m.Y - H:i') . ' - ';
+	 	echo $polisa->getDatdok()->format('d.m.Y - H:i') . ' - ';
+	 	
+	 	echo $polisa->getPol_brpol() .'-';
+	 	echo $polisa->getPolao2()->getRegbroj() . ' - ';
+	 	echo $polisa->getPolao3()->getBonusmalus() . ' - ';
+	 	echo $polisa->getPolao3()->getZonr()->getNaziv();
+	 	echo $polisa->getPolao3()->getOsnpremao() . '<br>';
+	//  	echo $polisa->getBrojsasije();
+	
+	}
+} 
+/* PRIKAZ FORME */
+else{
+
+	$form = $this->form;
+	
+	$form->prepare();
+	$form->setAttribute('action', $this->url('izvjestaji/default', array('controller' => 'agencija', 'action' => 'zakljucenePolise')));
+	$form->setAttribute('method', 'post');
+	
+	$form->setAttributes(array('class' => "form-horizontal", 'id' => "article-form"));
+
+
+?>
+<script type="text/javascript">
+
+$(document).ready(function () {
+	$('#datepicker_od').datepicker({ 
+		language: 'sr-latin',
+		autoclose: true,
+	});
+	$('#datepicker_do').datepicker({
+		language: 'sr-latin',
+		autoclose: true,
+	});
+});
+
+</script>
+
+<div class="p-20">
+	
+	<?php	
+		echo $this->form()->openTag($form); 
+	?>
+
+		<div class="form-group">
+			<?php $elem = $form->get('datdok');
+			
+			$elem->setLabel("Datum izdavanja polise od:");
+			$elem->setLabelAttributes(array('class' => "col-sm-4 control-label", 'for'=>"datdokod"));
+			$elem->setAttributes(array('name'=>'datdokod', 'class' => "form-control", "id"=>'datepicker_od'));
+			
+			echo $this->formlabel($elem); ?>
+			<div class="col-sm-6">
+			    <?php  echo $this->formelement($elem);  ?>
+			    <?php  echo $this->formelementErrors($elem);  ?>
+			</div>
+		</div>
+
+		<div class="form-group">
+			<?php $elem = $form->get('datdok');
+			
+			$elem->setLabel("Datum izdavanja polise do:");
+			$elem->setLabelAttributes(array('class' => "col-sm-4 control-label", 'for'=>"datdokdo"));
+			$elem->setAttributes(array('name'=>'datdokdo', 'type'=>'text', 'class' => "form-control", "id"=>'datepicker_do'));
+			
+			echo $this->formlabel($elem); ?>
+			<div class="col-sm-6">
+			    <?php  echo $this->formelement($elem);  ?>
+			    <?php  echo $this->formelementErrors($elem);  ?>
+			</div>
+		</div>
+		
+		
+		<div class="form-group">
+			<?php $elem = $form3->get('zonr');
+			
+			$elem->setLabel("Zona rizika:");
+			$elem->setLabelAttributes(array('class' => "col-sm-4 control-label", 'for'=>"zonar"));
+			$elem->setAttributes(array('name'=>'zonr', 'class' => "form-control"));
+			
+			echo $this->formlabel($elem); ?>
+			<div class="col-sm-6">
+			    <?php  echo $this->formelement($elem);  ?>
+			    <?php  echo $this->formelementErrors($elem);  ?>
+			</div>
+		</div>
+	
+	
+	
+	 	<div class="form-group">
+	    	<div class="col-sm-offset-4 col-sm-10">
+	      	<?php 
+	      		$form->get('send')->setAttributes(array('class' => "btn btn-custom btn-bordred waves-light w-md m-b-5"));
+	        	echo $this->formElement($form->get('send'));
+	        ?>
+			</div>
+		</div>
+		
+	
+	<?php echo $this->form()->closeTag(); ?>
+	</div><!-- end p20 -->
+	<?php } /*else*/ ?>
+
+
+
+				</div><!-- end cardbox -->
+			</div><!-- end col -->
+		</div><!-- end row -->
+	</div><!-- end container -->
+</div><!-- end content -->
+	        
+
+ 				        

@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//config/autoload/navigation.global.php=UTF-8
+encoding//module/Application/view/layout/layoutForme.phtml=UTF-8
+encoding//module/Application/view/layout/layoutIntranet.phtml=UTF-8
+encoding//module/Application/view/layout/layoutLogin.phtml=UTF-8
+encoding//module/Izvjestaji/src/Izvjestaji/Controller/AgencijaController.php=UTF-8
+encoding//module/Izvjestaji/view/izvjestaji/agencija/zakljucene-polise.phtml=UTF-8
+encoding//module/Izvjestaji/view/izvjestaji/knjigovodstvo/potrazivanja.phtml=UTF-8
+encoding//vendor/coolcsn/csn-user/src/CsnUser/Controller/IndexController.php=UTF-8
+encoding//vendor/coolcsn/csn-user/src/CsnUser/Entity/User.php=UTF-8
+encoding//vendor/coolcsn/csn-user/view/csn-user/index/login.phtml=UTF-8

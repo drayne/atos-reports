@@ -1,0 +1,3 @@
+RewriteCond %{HTTP_HOST} ^aplikacija.atososiguranje.com/intrane$ [NC,OR]
+RewriteCond %{REQUEST_URI} !intrane/intranet/public
+RewriteRule (.*) /intrane/intranet/public/$1 [L]

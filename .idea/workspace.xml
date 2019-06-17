@@ -1,0 +1,773 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8005d80c-61da-4f21-b6c2-60ece5e00bb3" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>V:/composer.json</pharConfigPath>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@192.168.101.243" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="V" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://V:/module/Izvjestaji/src/Izvjestaji/Controller/AgencijaController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2520">
+              <caret line="132" column="20" selection-start-line="132" selection-start-column="20" selection-end-line="132" selection-end-column="20" />
+              <folding>
+                <element signature="e#41#90#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://V:/module/Izvjestaji/src/Izvjestaji/Controller/KnjigovodstvoController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="709">
+              <caret line="122" column="13" selection-start-line="122" selection-start-column="13" selection-end-line="122" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://V:/module/Izvjestaji/src/Izvjestaji/Controller/ScheduleController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18606">
+              <caret line="891" column="38" selection-start-line="891" selection-start-column="38" selection-end-line="891" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://V:/module/Application/src/Application/Controller/IndexController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="651">
+              <caret line="50" column="66" selection-start-line="50" selection-start-column="66" selection-end-line="50" selection-end-column="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://V:/config/autoload/local.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://V:/config/autoload/global.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://V:/module/Application/src/Application/Entity/Anlanl.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="945">
+              <caret line="48" column="7" selection-start-line="48" selection-start-column="7" selection-end-line="48" selection-end-column="64" />
+              <folding>
+                <element signature="e#37#77#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://V:/module/Application/config/module.config.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://V:/module/Application/Module.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://V:/config/application.config.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>$zona_rizika</find>
+      <find>orm_default2</find>
+      <find>rj</find>
+      <find>getanl</find>
+      <find>form</find>
+      <find>$polisa</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>$anlanl</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="V:/" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="V:/module/Izvjestaji/src/Izvjestaji/Controller/AgencijaController.php" />
+        <option value="V:/module/Application/view/layout/layoutForme.phtml" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/e3bbc653-0252-4f97-b7f1-9cc742dedf3e/console.sql" />
+        <option value="V:/config/autoload/navigation.global.php" />
+        <option value="V:/module/Application/src/Application/Entity/Filijala.php" />
+        <option value="V:/config/autoload/doctrine.local.php" />
+        <option value="V:/module/Application/src/Application/Entity/Polisa.php" />
+        <option value="V:/module/Application/src/Application/Entity/Orgjed.php" />
+        <option value="V:/module/Application/view/layout/layout.phtml" />
+        <option value="V:/module/Application/src/Application/Entity/Anlanl.php" />
+        <option value="V:/module/Izvjestaji/view/izvjestaji/knjigovodstvo/pregled-premije.phtml" />
+        <option value="V:/module/Izvjestaji/src/Izvjestaji/Controller/KnjigovodstvoController.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="V:/vendor/doctrine/cache" />
+      <path value="V:/vendor/doctrine/doctrine-orm-module" />
+      <path value="V:/vendor/doctrine/common" />
+      <path value="V:/vendor/doctrine/collections" />
+      <path value="V:/vendor/coolcsn/csn-navigation" />
+      <path value="V:/vendor/composer" />
+      <path value="V:/vendor/doctrine/instantiator" />
+      <path value="V:/vendor/coolcsn/csn-user" />
+      <path value="V:/vendor/doctrine/dbal" />
+      <path value="V:/vendor/coolcsn/csn-authorization" />
+      <path value="V:/vendor/doctrine/annotations" />
+      <path value="V:/vendor/doctrine/inflector" />
+      <path value="V:/vendor/doctrine/orm" />
+      <path value="V:/vendor/doctrine/doctrine-module" />
+      <path value="V:/vendor/doctrine/lexer" />
+      <path value="V:/vendor/zendframework/zendframework" />
+      <path value="V:/vendor/zendframework/zendxml" />
+      <path value="V:/vendor/symfony/console" />
+      <path value="V:/vendor/symfony/debug" />
+      <path value="V:/vendor/psr/log" />
+      <path value="V:/vendor/symfony/polyfill-mbstring" />
+      <path value="V:/vendor/adaoex/zf2-excel" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <autoscrollToSource Scope="true" />
+      <autoscrollFromSource Scope="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="V" type="b2602c69:ProjectViewProjectNode" />
+              <item name="V:" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="V" type="b2602c69:ProjectViewProjectNode" />
+              <item name="V:" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="V" type="b2602c69:ProjectViewProjectNode" />
+              <item name="V:" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+              <item name="autoload" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="V" type="b2602c69:ProjectViewProjectNode" />
+              <item name="V:" type="462c0819:PsiDirectoryNode" />
+              <item name="module" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="V" type="b2602c69:ProjectViewProjectNode" />
+              <item name="V:" type="462c0819:PsiDirectoryNode" />
+              <item name="module" type="462c0819:PsiDirectoryNode" />
+              <item name="Izvjestaji" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="V" type="b2602c69:ProjectViewProjectNode" />
+              <item name="V:" type="462c0819:PsiDirectoryNode" />
+              <item name="module" type="462c0819:PsiDirectoryNode" />
+              <item name="Izvjestaji" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="V" type="b2602c69:ProjectViewProjectNode" />
+              <item name="V:" type="462c0819:PsiDirectoryNode" />
+              <item name="module" type="462c0819:PsiDirectoryNode" />
+              <item name="Izvjestaji" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Izvjestaji" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="V" type="b2602c69:ProjectViewProjectNode" />
+              <item name="V:" type="462c0819:PsiDirectoryNode" />
+              <item name="module" type="462c0819:PsiDirectoryNode" />
+              <item name="Izvjestaji" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Izvjestaji" type="462c0819:PsiDirectoryNode" />
+              <item name="Controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="V:" type="cbb8eebc:String" user="V:" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="V:" type="cbb8eebc:String" user="V:" />
+              <item name="config" type="cbb8eebc:String" user="config" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="V:" type="cbb8eebc:String" user="V:" />
+              <item name="config" type="cbb8eebc:String" user="config" />
+              <item name="autoload" type="cbb8eebc:String" user="autoload" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="V:" type="cbb8eebc:String" user="V:" />
+              <item name="module" type="cbb8eebc:String" user="module" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="V:" type="cbb8eebc:String" user="V:" />
+              <item name="module" type="cbb8eebc:String" user="module" />
+              <item name="Application" type="cbb8eebc:String" user="Application" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="V:" type="cbb8eebc:String" user="V:" />
+              <item name="module" type="cbb8eebc:String" user="module" />
+              <item name="Application" type="cbb8eebc:String" user="Application" />
+              <item name="config" type="cbb8eebc:String" user="config" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="V:" type="cbb8eebc:String" user="V:" />
+              <item name="module" type="cbb8eebc:String" user="module" />
+              <item name="Application" type="cbb8eebc:String" user="Application" />
+              <item name="src" type="cbb8eebc:String" user="src" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="V:" type="cbb8eebc:String" user="V:" />
+              <item name="module" type="cbb8eebc:String" user="module" />
+              <item name="Application" type="cbb8eebc:String" user="Application" />
+              <item name="src" type="cbb8eebc:String" user="src" />
+              <item name="Application" type="cbb8eebc:String" user="Application" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="V:" type="cbb8eebc:String" user="V:" />
+              <item name="module" type="cbb8eebc:String" user="module" />
+              <item name="Application" type="cbb8eebc:String" user="Application" />
+              <item name="src" type="cbb8eebc:String" user="src" />
+              <item name="Application" type="cbb8eebc:String" user="Application" />
+              <item name="Controller" type="cbb8eebc:String" user="Controller" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="V:" type="cbb8eebc:String" user="V:" />
+              <item name="module" type="cbb8eebc:String" user="module" />
+              <item name="Application" type="cbb8eebc:String" user="Application" />
+              <item name="src" type="cbb8eebc:String" user="src" />
+              <item name="Application" type="cbb8eebc:String" user="Application" />
+              <item name="Entity" type="cbb8eebc:String" user="Entity" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="V:" type="cbb8eebc:String" user="V:" />
+              <item name="module" type="cbb8eebc:String" user="module" />
+              <item name="Application" type="cbb8eebc:String" user="Application" />
+              <item name="view" type="cbb8eebc:String" user="view" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="V:" type="cbb8eebc:String" user="V:" />
+              <item name="module" type="cbb8eebc:String" user="module" />
+              <item name="Application" type="cbb8eebc:String" user="Application" />
+              <item name="view" type="cbb8eebc:String" user="view" />
+              <item name="layout" type="cbb8eebc:String" user="layout" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="V:" type="cbb8eebc:String" user="V:" />
+              <item name="module" type="cbb8eebc:String" user="module" />
+              <item name="Izvjestaji" type="cbb8eebc:String" user="Izvjestaji" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="V:" type="cbb8eebc:String" user="V:" />
+              <item name="module" type="cbb8eebc:String" user="module" />
+              <item name="Izvjestaji" type="cbb8eebc:String" user="Izvjestaji" />
+              <item name="config" type="cbb8eebc:String" user="config" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="V:" type="cbb8eebc:String" user="V:" />
+              <item name="module" type="cbb8eebc:String" user="module" />
+              <item name="Izvjestaji" type="cbb8eebc:String" user="Izvjestaji" />
+              <item name="src" type="cbb8eebc:String" user="src" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="V:" type="cbb8eebc:String" user="V:" />
+              <item name="module" type="cbb8eebc:String" user="module" />
+              <item name="Izvjestaji" type="cbb8eebc:String" user="Izvjestaji" />
+              <item name="src" type="cbb8eebc:String" user="src" />
+              <item name="Izvjestaji" type="cbb8eebc:String" user="Izvjestaji" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="V:" type="cbb8eebc:String" user="V:" />
+              <item name="module" type="cbb8eebc:String" user="module" />
+              <item name="Izvjestaji" type="cbb8eebc:String" user="Izvjestaji" />
+              <item name="src" type="cbb8eebc:String" user="src" />
+              <item name="Izvjestaji" type="cbb8eebc:String" user="Izvjestaji" />
+              <item name="Controller" type="cbb8eebc:String" user="Controller" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="V:" type="cbb8eebc:String" user="V:" />
+              <item name="module" type="cbb8eebc:String" user="module" />
+              <item name="Izvjestaji" type="cbb8eebc:String" user="Izvjestaji" />
+              <item name="view" type="cbb8eebc:String" user="view" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="V:" type="cbb8eebc:String" user="V:" />
+              <item name="module" type="cbb8eebc:String" user="module" />
+              <item name="Izvjestaji" type="cbb8eebc:String" user="Izvjestaji" />
+              <item name="view" type="cbb8eebc:String" user="view" />
+              <item name="izvjestaji" type="cbb8eebc:String" user="izvjestaji" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="V:" type="cbb8eebc:String" user="V:" />
+              <item name="module" type="cbb8eebc:String" user="module" />
+              <item name="Izvjestaji" type="cbb8eebc:String" user="Izvjestaji" />
+              <item name="view" type="cbb8eebc:String" user="view" />
+              <item name="izvjestaji" type="cbb8eebc:String" user="izvjestaji" />
+              <item name="agencija" type="cbb8eebc:String" user="agencija" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="V:" type="cbb8eebc:String" user="V:" />
+              <item name="module" type="cbb8eebc:String" user="module" />
+              <item name="Izvjestaji" type="cbb8eebc:String" user="Izvjestaji" />
+              <item name="view" type="cbb8eebc:String" user="view" />
+              <item name="izvjestaji" type="cbb8eebc:String" user="izvjestaji" />
+              <item name="knjigovodstvo" type="cbb8eebc:String" user="knjigovodstvo" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="V:" type="cbb8eebc:String" user="V:" />
+              <item name="public" type="cbb8eebc:String" user="public" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="V:" type="cbb8eebc:String" user="V:" />
+              <item name="public" type="cbb8eebc:String" user="public" />
+              <item name="excel-template" type="cbb8eebc:String" user="excel-template" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="Oracle" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="T:/" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="V:\module\Application\src\Application\Entity" />
+      <recent name="V:\module\Izvjestaji\view\izvjestaji\knjigovodstvo" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_FROM_SOURCE" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task id="Default" summary="Default task">
+      <changelist id="8005d80c-61da-4f21-b6c2-60ece5e00bb3" name="Default" comment="" />
+      <created>1523453814538</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1523878949953</updated>
+      <workItem from="1523453834304" duration="1038000" />
+      <workItem from="1523454911601" duration="282000" />
+      <workItem from="1523515313719" duration="343000" />
+      <workItem from="1523515817086" duration="124000" />
+      <workItem from="1523515960336" duration="6395000" />
+      <workItem from="1523601118269" duration="10952000" />
+      <workItem from="1523863192794" duration="392000" />
+      <workItem from="1523872781413" duration="31000" />
+      <workItem from="1523872836230" duration="5508000" />
+      <workItem from="1523878375147" duration="574000" />
+    </task>
+    <task active="true" id="LOCAL-00002" summary="Konta">
+      <created>1523878945560</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1523878950175</updated>
+      <workItem from="1523878950462" duration="50515000" />
+      <workItem from="1524565219093" duration="1215000" />
+      <workItem from="1533017898274" duration="1782000" />
+      <workItem from="1535004591392" duration="620000" />
+      <workItem from="1536218370640" duration="21000" />
+      <workItem from="1536218423826" duration="1715000" />
+      <workItem from="1537181679758" duration="6750000" />
+      <workItem from="1537862668334" duration="2738000" />
+      <workItem from="1539683060958" duration="613000" />
+      <workItem from="1560772373404" duration="383000" />
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="91991000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" x="2148" y="355" width="438" height="381" id="Project" order="0" sideWeight="0.5982997" side_tool="true" visible="true" weight="0.1609808" />
+      <window_info id="Favorites" order="1" side_tool="true" weight="0.3296875" />
+      <window_info anchor="bottom" id="Command Line Tools Console" order="0" sideWeight="0.49947917" weight="0.32943678" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32943678" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.32943678" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.32943678" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" weight="0.32943678" />
+      <window_info anchor="bottom" x="389" y="586" width="1117" height="452" id="Database Console" order="13" side_tool="true" weight="0.21041445" />
+      <window_info anchor="right" x="2843" y="507" width="74" height="26" id="Notes" order="0" weight="0.178125" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" x="367" y="221" width="324" height="454" id="Database" order="4" weight="0.21197917" />
+      <window_info anchor="right" x="2843" y="499" width="74" height="42" id="Structure" order="5" sideWeight="0.40170032" side_tool="true" visible="true" weight="0.15831557" />
+      <window_info anchor="right" id="Quick Notes" order="6" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://V:/module/Izvjestaji/src/Izvjestaji/Controller/IndexController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="96" column="5" lean-forward="true" selection-start-line="96" selection-start-column="5" selection-end-line="96" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://V:/vendor/zendframework/zendframework/library/Zend/Mvc/Controller/AbstractActionController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="32" column="20" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://e3bbc653-0252-4f97-b7f1-9cc742dedf3e/schema/BOBAR/table/OPERATER.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://e3bbc653-0252-4f97-b7f1-9cc742dedf3e/schema/BOBAR/table/ANLANL_IZMJENE">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+          <column-attributes>
+            <column name="ROWID" enabled="false" />
+          </column-attributes>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/e3bbc653-0252-4f97-b7f1-9cc742dedf3e/console.sql" />
+    <entry file="das://e3bbc653-0252-4f97-b7f1-9cc742dedf3e/schema/BOBAR/table/BANKE_BUDZET">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+          <column-attributes>
+            <column name="ROWID" enabled="false" />
+          </column-attributes>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://e3bbc653-0252-4f97-b7f1-9cc742dedf3e/schema/BOBAR/table/OPERATER">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://V:/config/autoload/acl.global.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1008" />
+      </provider>
+    </entry>
+    <entry file="file://V:/config/autoload/csnuser.global.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-976" />
+      </provider>
+    </entry>
+    <entry file="file://V:/module/Izvjestaji/config/module.config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="28" column="17" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://V:/config/autoload/navigation.global.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="56" column="10" selection-start-line="56" selection-start-column="10" selection-end-line="56" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://V:/module/Application/src/Application/Entity/Polao3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-630" />
+      </provider>
+    </entry>
+    <entry file="file://V:/module/Application/src/Application/Entity/Zonriz.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://V:/module/Application/src/Application/Entity/Polao2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="36" selection-start-line="36" selection-end-line="44" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://V:/module/Izvjestaji/view/izvjestaji/knjigovodstvo/potrazivanja.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://V:/module/Application/view/layout/layoutIntranet.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5670" />
+      </provider>
+    </entry>
+    <entry file="file://V:/module/Application/view/layout/layout.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="641">
+          <caret line="53" column="30" selection-start-line="53" selection-start-column="30" selection-end-line="53" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://V:/module/Application/view/layout/layoutForme.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2425">
+          <caret line="106" column="29" selection-start-line="106" selection-start-column="29" selection-end-line="106" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://V:/module/Application/src/Application/Entity/Filijala.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="42" column="27" selection-start-line="42" selection-start-column="27" selection-end-line="42" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://V:/module/Application/src/Application/Entity/Orgjed.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="25" column="70" lean-forward="true" selection-start-line="25" selection-start-column="70" selection-end-line="25" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://V:/module/Application/src/Application/Entity/Polisa.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1281">
+          <caret line="70" column="4" selection-start-line="70" selection-start-column="4" selection-end-line="70" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://V:/module/Izvjestaji/view/izvjestaji/agencija/zakljucene-polise.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2394">
+          <caret line="114" column="18" selection-start-line="114" selection-start-column="18" selection-end-line="114" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://V:/module/Izvjestaji/view/izvjestaji/knjigovodstvo/pregled-premije.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="34" column="40" selection-start-line="34" selection-start-column="40" selection-end-line="34" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://e3bbc653-0252-4f97-b7f1-9cc742dedf3e/schema/BOBAR/table/ANLANL">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://e3bbc653-0252-4f97-b7f1-9cc742dedf3e/schema/BOBAR/table/FILIJALA">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://e3bbc653-0252-4f97-b7f1-9cc742dedf3e/schema/BOBAR/table/ORGJED">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://V:/config/autoload/doctrine.local.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="19" column="84" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://V:/module/Izvjestaji/src/Izvjestaji/Controller/AgencijaController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2520">
+          <caret line="132" column="20" selection-start-line="132" selection-start-column="20" selection-end-line="132" selection-end-column="20" />
+          <folding>
+            <element signature="e#41#90#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://V:/module/Izvjestaji/src/Izvjestaji/Controller/ScheduleController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18606">
+          <caret line="891" column="38" selection-start-line="891" selection-start-column="38" selection-end-line="891" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://V:/module/Application/src/Application/Controller/IndexController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="651">
+          <caret line="50" column="66" selection-start-line="50" selection-start-column="66" selection-end-line="50" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://V:/module/Application/src/Application/Entity/Anlanl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="48" column="7" selection-start-line="48" selection-start-column="7" selection-end-line="48" selection-end-column="64" />
+          <folding>
+            <element signature="e#37#77#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://V:/module/Application/config/module.config.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://V:/module/Application/Module.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://V:/module/Izvjestaji/src/Izvjestaji/Controller/KnjigovodstvoController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="709">
+          <caret line="122" column="13" selection-start-line="122" selection-start-column="13" selection-end-line="122" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://V:/config/application.config.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://V:/config/autoload/local.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://V:/config/autoload/global.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>
