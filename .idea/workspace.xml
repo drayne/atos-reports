@@ -38,7 +38,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://V:/module/Izvjestaji/src/Izvjestaji/Controller/AgencijaController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2520">
+            <state relative-caret-position="2040">
               <caret line="132" column="20" selection-start-line="132" selection-start-column="20" selection-end-line="132" selection-end-column="20" />
               <folding>
                 <element signature="e#41#90#0#PHP" expanded="true" />
@@ -50,7 +50,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://V:/module/Izvjestaji/src/Izvjestaji/Controller/KnjigovodstvoController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="709">
+            <state relative-caret-position="1870">
               <caret line="122" column="13" selection-start-line="122" selection-start-column="13" selection-end-line="122" selection-end-column="13" />
             </state>
           </provider>
@@ -59,7 +59,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://V:/module/Izvjestaji/src/Izvjestaji/Controller/ScheduleController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18606">
+            <state relative-caret-position="15062">
               <caret line="891" column="38" selection-start-line="891" selection-start-column="38" selection-end-line="891" selection-end-column="38" />
             </state>
           </provider>
@@ -68,7 +68,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://V:/module/Application/src/Application/Controller/IndexController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="651">
+            <state relative-caret-position="527">
               <caret line="50" column="66" selection-start-line="50" selection-start-column="66" selection-end-line="50" selection-end-column="66" />
             </state>
           </provider>
@@ -87,7 +87,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://V:/module/Application/src/Application/Entity/Anlanl.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="945">
+            <state relative-caret-position="765">
               <caret line="48" column="7" selection-start-line="48" selection-start-column="7" selection-end-line="48" selection-end-column="64" />
               <folding>
                 <element signature="e#37#77#0#PHP" expanded="true" />
@@ -189,63 +189,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="V" type="b2602c69:ProjectViewProjectNode" />
-              <item name="V:" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="V" type="b2602c69:ProjectViewProjectNode" />
-              <item name="V:" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="V" type="b2602c69:ProjectViewProjectNode" />
-              <item name="V:" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-              <item name="autoload" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="V" type="b2602c69:ProjectViewProjectNode" />
-              <item name="V:" type="462c0819:PsiDirectoryNode" />
-              <item name="module" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="V" type="b2602c69:ProjectViewProjectNode" />
-              <item name="V:" type="462c0819:PsiDirectoryNode" />
-              <item name="module" type="462c0819:PsiDirectoryNode" />
-              <item name="Izvjestaji" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="V" type="b2602c69:ProjectViewProjectNode" />
-              <item name="V:" type="462c0819:PsiDirectoryNode" />
-              <item name="module" type="462c0819:PsiDirectoryNode" />
-              <item name="Izvjestaji" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="V" type="b2602c69:ProjectViewProjectNode" />
-              <item name="V:" type="462c0819:PsiDirectoryNode" />
-              <item name="module" type="462c0819:PsiDirectoryNode" />
-              <item name="Izvjestaji" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Izvjestaji" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="V" type="b2602c69:ProjectViewProjectNode" />
-              <item name="V:" type="462c0819:PsiDirectoryNode" />
-              <item name="module" type="462c0819:PsiDirectoryNode" />
-              <item name="Izvjestaji" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Izvjestaji" type="462c0819:PsiDirectoryNode" />
-              <item name="Controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
       <pane id="Scope">
         <subPane subId="Project Files">
           <expand>
@@ -484,12 +428,13 @@
       <workItem from="1537862668334" duration="2738000" />
       <workItem from="1539683060958" duration="613000" />
       <workItem from="1560772373404" duration="383000" />
+      <workItem from="1560777100230" duration="84000" />
     </task>
     <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="91991000" />
+    <option name="totallyTimeSpent" value="92075000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -503,7 +448,7 @@
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" x="2148" y="355" width="438" height="381" id="Project" order="0" sideWeight="0.5982997" side_tool="true" visible="true" weight="0.1609808" />
+      <window_info active="true" content_ui="combo" x="2148" y="355" width="438" height="381" id="Project" order="0" sideWeight="0.5982997" side_tool="true" visible="true" weight="0.16257995" />
       <window_info id="Favorites" order="1" side_tool="true" weight="0.3296875" />
       <window_info anchor="bottom" id="Command Line Tools Console" order="0" sideWeight="0.49947917" weight="0.32943678" />
       <window_info anchor="bottom" id="Message" order="1" />
@@ -715,7 +660,7 @@
     </entry>
     <entry file="file://V:/module/Izvjestaji/src/Izvjestaji/Controller/AgencijaController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2520">
+        <state relative-caret-position="2040">
           <caret line="132" column="20" selection-start-line="132" selection-start-column="20" selection-end-line="132" selection-end-column="20" />
           <folding>
             <element signature="e#41#90#0#PHP" expanded="true" />
@@ -723,23 +668,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://V:/module/Izvjestaji/src/Izvjestaji/Controller/KnjigovodstvoController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1870">
+          <caret line="122" column="13" selection-start-line="122" selection-start-column="13" selection-end-line="122" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://V:/module/Izvjestaji/src/Izvjestaji/Controller/ScheduleController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18606">
+        <state relative-caret-position="15062">
           <caret line="891" column="38" selection-start-line="891" selection-start-column="38" selection-end-line="891" selection-end-column="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://V:/module/Application/src/Application/Controller/IndexController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="651">
+        <state relative-caret-position="527">
           <caret line="50" column="66" selection-start-line="50" selection-start-column="66" selection-end-line="50" selection-end-column="66" />
         </state>
       </provider>
     </entry>
+    <entry file="file://V:/config/autoload/local.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://V:/module/Application/src/Application/Entity/Anlanl.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="945">
+        <state relative-caret-position="765">
           <caret line="48" column="7" selection-start-line="48" selection-start-column="7" selection-end-line="48" selection-end-column="64" />
           <folding>
             <element signature="e#37#77#0#PHP" expanded="true" />
@@ -753,17 +708,7 @@
     <entry file="file://V:/module/Application/Module.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://V:/module/Izvjestaji/src/Izvjestaji/Controller/KnjigovodstvoController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="709">
-          <caret line="122" column="13" selection-start-line="122" selection-start-column="13" selection-end-line="122" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://V:/config/application.config.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://V:/config/autoload/local.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://V:/config/autoload/global.php">
